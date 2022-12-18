@@ -1,2 +1,2 @@
-def test_firs_test():
-    assert 10 < 100
+def test_first_test():
+    assert 100 < 1000
